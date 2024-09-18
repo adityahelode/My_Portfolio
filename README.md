@@ -7,4 +7,4 @@
 
 - `index.html`: The main file for the portfolio.
 - `styles.css`: Contains the styles for the portfolio.
-- `script.js`: JavaScript functionality for the portfolio.
+- `main.js`: JavaScript functionality for the portfolio.
