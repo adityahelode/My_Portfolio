@@ -1,3 +1,3 @@
 # My_Portfolio
 
-#### Please checkout Master Branch for my portfolio. Thank You!!!
+#### Please checkout master Branch for my portfolio. Thank You!!!
